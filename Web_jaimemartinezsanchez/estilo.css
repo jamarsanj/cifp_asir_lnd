@@ -1,0 +1,29 @@
+header {
+    background-color: beige;
+}
+table {
+    text-align: center;
+    margin: 0 auto;
+    border: 1;
+    border-style: dotted;
+}
+body {
+    text-align: justify
+        
+}
+section {
+    float: left;
+    width: 50%;
+}
+
+aside {
+    float: right;
+    width: 50%;
+}
+article {
+    width: auto;
+    text-align:justify;
+}
+footer {
+    text-align: justify;
+}

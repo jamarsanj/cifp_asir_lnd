@@ -1,0 +1,36 @@
+body {
+    background-color:rgb(248, 216, 136);
+}
+h1 {
+    color:rgb(226, 17, 44)
+}
+h3 {
+    color:rgb(202, 61, 84);
+}
+.box {
+    overflow: hidden;
+}
+
+content {
+        font-size: 15px;
+        line-height: 60px;
+        padding: 0 20px;
+        text-align: center;
+}
+
+.left {
+        float: left;
+        width: 50%;
+        text-align: center;
+}
+
+.left .content {
+        border-right: 10px solid #2363c4  ;
+        text-align: center;
+}
+
+.right {
+        float: right;
+        width: 50%;
+        text-align: center;
+}

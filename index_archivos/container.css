@@ -1,0 +1,25 @@
+.container {
+    width:100%;
+    text-align:center;
+}
+
+.left {
+    float:left;
+    width:33%;
+    text-align: center;
+    border-right: solid #2363c4  ;
+}
+
+center {
+    display: inline-block;
+    margin:0 auto;
+    width:33%;
+    text-align: center;
+}
+
+.right {
+    float:right;
+    width:33%;
+    text-align: center;
+    border-left: #2363c4;
+}
